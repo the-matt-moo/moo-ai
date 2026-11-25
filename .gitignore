@@ -1,0 +1,8 @@
+context/*.md
+!context/README.md
+!context/*.example.md
+output/
+*.docx
+*.pdf
+.claude/settings.local.json
+MEMORY.md
